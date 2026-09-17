@@ -489,10 +489,10 @@ $newInfo = "<?php \n\n
     <meta name='rating' content='GENERAL'>
     <meta name='distribution' content='GLOBAL'>
     <meta name='classification' content='school portal, school management system, software'>
-    <meta name='copyright' content='fobrain https://www.fobrain.com'>
-    <meta name='author' content='IGWEZE EBELE MARK'>
+    <meta name='copyright' content='Rock-Side Unique Academy International +234 816 838 0064'>
+    <meta name='author' content='Rock-Side Unique Academy International'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge' /> 
-    <meta name='keywords' content='fobrain'  /> 
+    <meta name='keywords' content='Rock-Side Unique Academy International'  /> 
     <meta name='description' content=''/>  
     <!-- favicon -->	
 	<link rel='apple-touch-icon' sizes='180x180' href='../favicon/apple-touch-icon.png'>
@@ -502,7 +502,7 @@ $newInfo = "<?php \n\n
 	<link rel='mask-icon' href='../favicon/safari-pinned-tab.svg' color='#5bbad5'>
 	<meta name='msapplication-TileColor' content='#bfb3d4'>
 	<meta name='theme-color' content='#ffffff'> 
-    <title>Installation Successfully | fobrain </title>  
+    <title>Installation Successfully | Rock-Side Unique Academy International</title>  
     <!-- stylesheet -->  
     <!-- fobrain style css -->
     <link href='<?php echo "."$"."fobrainTemplate; ?>css/info.min.css' rel='stylesheet' type='text/css' />  
@@ -518,9 +518,8 @@ $newInfo = "<?php \n\n
 			</a>
 
             <p class='justify mt-20'>
-                For step-by-step detailed instructions on setting up your School Portal  
-                and accessing its documentation, visit  <a href='https://www.docs.fobrain.com' 
-                target='_blank'> https://www.docs.fobrain.com</a>.
+                Rock-Side Unique Academy International<br />
+                +234 816 838 0064
             </p> 
 		</div> 
 		<canvas class='background'></canvas> 
@@ -543,7 +542,7 @@ $newInfo = "<?php \n\n
                             </script>"; 
         
                             $msg_s = "<i class='fa fa-check fa-3x pull-left'></i> <span class='sr-only'>Loading...</span>
-                            <b>FoBrain AI</b> installation is almost completed!. <br/> 
+                            <b>Rock-Side Unique Academy International</b> installation is almost completed!. <br/> 
                             <a href='$fobrainInstallDir'><b> Please click here to delete installation files  so 
                             as to complete installation</b></a>.";
                             echo $succMsg.$msg_s.$msgEnd; exit;
@@ -551,7 +550,7 @@ $newInfo = "<?php \n\n
                         }else{
 
                             $msg_i = "<i class='fa fa-check fa-3x pull-left'></i> <span class='sr-only'>Loading...</span>
-                            <b>FoBrain AI</b> installation is almost completed!. <br/>However, some files were unable to delete due
+                            <b>Rock-Side Unique Academy International</b> installation is almost completed!. <br/>However, some files were unable to delete due
                             to your files system permission. Please manually delete the install folder to complete installation. 
                             <a href='$fobrainPortalRoot'><b>Please click here to login</b></a>";
                             echo $infMsg.$msg_i.$msgEnd; exit;
