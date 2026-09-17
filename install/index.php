@@ -253,14 +253,15 @@ if(!session_id()){
 			Swal.fire({
 				title: "<i class='fas fa-smile fs-30'></i> Rock-Side Unique Academy International <i class='fa fas fa-smile fs-30'></i>",
 				html: `
-					+234 816 838 0064
+					<i class="far fa-handshake fs-16"></i> Welcome to Rock-Side Unique Academy International. </br></br>
+					<i class="fas fa-phone fs-16"></i> +234 816 838 0064
 				`,
-				imageUrl: "welcome.jpg",
+				imageUrl: "../wiz-design/assets/images/logo-sm.png",
 				color: "#fff",
   				background: "#000",
-				imageWidth: 450,
+				imageWidth: 230,
 				imageHeight: 230,
-				imageAlt: "Welcome Message",
+				imageAlt: "Rock-Side Unique Academy International logo",
 				confirmButtonText: `
 					<i class="far fa-surprise"></i> Close
 				`,
