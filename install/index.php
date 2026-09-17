@@ -251,13 +251,9 @@ if(!session_id()){
 			});  
 
 			Swal.fire({
-				title: "<i class='fas fa-smile fs-30'></i> foBrain AI <i class='fa fas fa-smile fs-30'></i>",
+				title: "<i class='fas fa-smile fs-30'></i> Rock-Side Unique Academy International <i class='fa fas fa-smile fs-30'></i>",
 				html: `
-					<i class="far fa-handshake fs-16"></i> 
-					You are fabulously welcome to foBrain AI family. </br></br>
-					<i class="fas fa-smile fs-16"></i> 
-					foBrain welcomes and wishes you an amazing experience. </br></br>
-					Our community are ever ready to help out. 
+					+234 816 838 0064
 				`,
 				imageUrl: "welcome.jpg",
 				color: "#fff",
