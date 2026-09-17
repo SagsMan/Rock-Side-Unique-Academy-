@@ -34,7 +34,7 @@
 
 	/* DON'T EDIT BELOW UNLESS YOU KNOW WHAT YOU ARE DOING */  
 
-	$FoBrain = 'foBrain AI';    /* App Brand */ 
+	$FoBrain = 'Rock-Side Unique Academy International';    /* App Brand */ 
 	$fobrain_version = ' [v3.0]';    /* FoBrain App Version */ 
 	 
 	$fobrain_demo = 0;  /* 1 means demo mode */  
@@ -1078,12 +1078,9 @@
 		'Asia/Kamchatka' => '(GMT+12:00) Asia/Kamchatka (Petropavlovsk-Kamchatski Time)'
 	);
 
-	$fobrain_footer = '<span class=" fs-12">&copy<script>document.write(new Date().getFullYear())</script> 
-		 					<b>'.$FoBrain.$fobrain_version.'</b><span class="col-i-4"></span></span>';
+	$fobrain_footer = '<span class=" fs-12"><b>Rock-Side Unique Academy International</b> +234 816 838 0064</span>';
 
-	$fobrain_footer_in = '<p class="mb-0 text-dark fs-12">
-							&copy<script>document.write(new Date().getFullYear())</script> 
-							<b> '.$FoBrain.$fobrain_version.' </b><span class="col-i-4"></span></p>';
+	$fobrain_footer_in = '<p class="mb-0 text-dark fs-12"><b>Rock-Side Unique Academy International</b> +234 816 838 0064</p>';
 
 
 ?>
