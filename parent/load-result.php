@@ -133,7 +133,8 @@ if(!session_id()){
 					 
 						if($rsType == $fiVal){   /* check result type */
 							
-							require_once $fobrainStudentSubRSDir;   /* include computational result */
+							$reportCardTemplate = dirname($fobrainStudentSubRSDir) . '/wiz-report-card.php';
+							require_once $reportCardTemplate;   /* Rock-Side report card */
 							
 						}else{	
 
