@@ -39,18 +39,13 @@
 
 	if($production_var != 0101010404040401){
 
-		$FoBrain = 'foBrain AI '.$fobrain_version;
-		$fobrain_link = 'https://www.fobrain.com'; 
-		$fobrain_target = 'target="_blank"';
+		$FoBrain = 'Rock-Side Unique Academy International';
+		$fobrain_link = '';
+		$fobrain_target = '';
 
-		$fobrain_footer = '<a href="'.$fobrain_link.'" '.$fobrain_target.' class=" fs-12">&copy<script>document.write(new Date().getFullYear())</script> 
-		 <b><span class="logo-mark col-i-1">'.$FoBrain.'</span></b>
-		 <span class="logo-mark col-i-2 d-none">'.$FoBrain.'</span></a>';
+		$fobrain_footer = '<span class=" fs-12"><b>'.$FoBrain.'</b> +234 816 838 0064</span>';
 
-		$fobrain_footer_in = '<p class="mb-0 text-dark fs-12"> 
-		<a href="'.$fobrain_link.'" '.$fobrain_target.'>&copy<script>document.write(new Date().getFullYear())</script> 
-		<b><span class="logo col-i-1">'.$FoBrain.'</span></b>
-		<span class="logo col-i-2 d-none">'.$FoBrain.'</span></a></p>';
+		$fobrain_footer_in = '<p class="mb-0 text-dark fs-12"><b>'.$FoBrain.'</b> +234 816 838 0064</p>';
 
 	}
 	
