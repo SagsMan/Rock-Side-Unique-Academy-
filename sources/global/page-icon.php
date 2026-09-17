@@ -50,6 +50,12 @@
 					<i class="fas fa-print label-icon"></i> 
 						Print 
 					</button>
+
+					<button class="btn btn-success btn-label waves-light
+					display-none printer-icon me-10 mb-10" onclick="downloadResultPdf('fobrain-print')">
+					<i class="fas fa-file-pdf label-icon"></i>
+						Download / Save PDF
+					</button>
 					
 					<button class="btn btn-dark btn-label waves-light
 					display-none excelExIcon me-10 mb-10"   
@@ -134,6 +140,15 @@
 				printWindow.document.close();
 				printWindow.print();
 				  
+			}
+
+			function downloadResultPdf(divID) {
+				/*
+				 * Use the browser's native print-to-PDF flow. It preserves the
+				 * report-card CSS, images and signatures without adding a
+				 * fragile third-party PDF dependency to the school system.
+				 */
+				printDiv(divID);
 			}
 				
 		</script>
