@@ -7,9 +7,8 @@
 			<div class="text-center wiz-auth-title">
 				<h3 class="mb-1 text-info">Installation Wizard </h3> 
 				<p class="justify">
-					For step-by-step instructions on installing FoBrain AI School Manager 
-					and accessing its documentation, visit  <a href="https://www.docs.fobrain.com" 
-					target="_blank"> https://www.docs.fobrain.com</a>.
+					Rock-Side Unique Academy International<br />
+					+234 816 838 0064
 				</p> 
 			</div>
 			<!--
@@ -313,7 +312,7 @@
 							name="url" id="url" />
 							<div class="field-placeholder">Site Full Url <span class="text-danger">*</span></div>
 							<div class="form-text text-danger fw-500">
-								e.g https://www.fobrain.com or https://www.sc.fobrain.com
+								e.g. https://your-school-domain.com
 							</div>			
 						</div>
 						<!-- field wrapper end -->
@@ -415,8 +414,7 @@
 									See the License for the specific language governing permissions and
 									limitations under the License</p> 
 
-									<p>Copyright (C) foBrain Tech LTD (Igweze Ebele Mark) 2010 - 2026 
-									- All Rights Reserved</p> 
+									<p>Developed by Brocoder Tech</p> 
 								</div>
 							</div>
 						</div> 		 		
