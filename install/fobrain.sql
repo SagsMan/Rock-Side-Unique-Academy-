@@ -3912,7 +3912,7 @@ CREATE TABLE `fobrain_schoolinfo` (
 --
 
 INSERT INTO `fobrain_schoolinfo` (`school_id`, `school_name`, `school_address`, `reg_prefix`, `school_cutoff`, `school_head`, `bursary`, `libraian`, `school_theme`, `school_logo`, `school_sub_cutoff`, `translator`, `screen_timer`, `ewallet`) VALUES
-(1, 'Your School Name', 'School Address', 'SDOSMS', 45, '17,6,2', 3, 5, '473C8B', '0776700001721396748WLPmLs.png', 40, 'en/en', '', '0');
+(1, 'Rock-side unique Academy International', 'School Address', 'SDOSMS', 45, '17,6,2', 3, 5, '473C8B', 'rockside-logo.jpg', 40, 'en/en', '', '0');
 
 -- --------------------------------------------------------
 
@@ -4021,7 +4021,7 @@ CREATE TABLE `fobrain_mail` (
 --
 
 INSERT INTO `fobrain_mail` (`mID`, `send_name`, `send_host`, `send_mail`, `send_pass`, `footer`, `status`) VALUES
-(1, 'FoBrain School', 'mail.fobrain.com', '', '', '', '1');
+(1, 'Rock-side unique Academy International', 'mail.fobrain.com', 'rocksideunique@gmail.com', '', '', '1');
 
 -- --------------------------------------------------------
 
