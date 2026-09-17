@@ -68,7 +68,7 @@ if(!session_id()){
 <head>
 		<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
         <meta charset="utf-8" />
-        <title>FoBrain Installation Wizard</title>  
+        <title>Rock-Side Unique Academy International Installation Wizard</title>  
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<!-- <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"> -->
 		
@@ -76,10 +76,10 @@ if(!session_id()){
 		<meta name="rating" content="GENERAL">
 		<meta name="distribution" content="GLOBAL">
 		<meta name="classification" content="school portal, school management system, software">
-		<meta name="copyright" content="fobrain https://www.fobrain.com">
+		<meta name="copyright" content="Rock-Side Unique Academy International +234 816 838 0064">
 		<meta name="author" content="IGWEZE EBELE MARK">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" /> 
-		<meta name="keywords" content="fobrain"  /> 
+		<meta name="keywords" content="Rock-Side Unique Academy International"  /> 
 		<meta name="description" content=""/>
 		
         <!-- favicon -->	
